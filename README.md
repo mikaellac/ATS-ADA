@@ -1,7 +1,7 @@
 # HOW TO USE
 
-npm i
-ng serve -o
+## npm i
+## ng serve -o
 
 # CvListings
 
